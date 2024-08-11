@@ -321,7 +321,7 @@ display:none;
     <!-- /. WRAPPER  -->
 
     <div id="footer-sec">
-    Para más desarrollos gratuitos, accede a <a href="https://www.configuroweb.com/" target="_blank">ConfiguroWeb</a>
+    .... <a href="" target="_blank">FSA</a>
     </div>
    
   
