@@ -551,7 +551,7 @@ yearRange: "1970:<?php echo date('Y');?>"
     <!-- /. WRAPPER  -->
 
     <div id="footer-sec">
-	Para más desarrollos accede a: <a href="" target="_blank">Multiservicios cypher</a>
+	.... <a href="" target="_blank">FSA</a>
 	</div>
    
   
