@@ -138,7 +138,7 @@ echo $error;
     <!-- /. WRAPPER  -->
 
     <div id="footer-sec">
-       Rainbow English Classes | Developed By : <a href="http://www.codexking.com/" target="_blank">Codexking.com</a>
+       ..... <a href="" target="_blank">FSA</a>
     </div>
    
   
