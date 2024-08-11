@@ -84,7 +84,7 @@ include("php/header.php");
     <!-- /. WRAPPER  -->
 
     <div id="footer-sec">
-    Para más desarrollos accede a:  <a href="" target="_blank">Multiservicios cypher</a>
+     .... <a href="" target="_blank">FSA</a>
     </div>
    
    <script src="js/jquery-1.10.2.js"></script>	
